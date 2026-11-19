@@ -1,0 +1,14 @@
+E:\hw7\bin\Debug\net8.0\AbstractFactory.exe
+E:\hw7\bin\Debug\net8.0\AbstractFactory.deps.json
+E:\hw7\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+E:\hw7\bin\Debug\net8.0\AbstractFactory.dll
+E:\hw7\bin\Debug\net8.0\AbstractFactory.pdb
+E:\hw7\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\hw7\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\hw7\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+E:\hw7\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\hw7\obj\Debug\net8.0\AbstractFactory.dll
+E:\hw7\obj\Debug\net8.0\refint\AbstractFactory.dll
+E:\hw7\obj\Debug\net8.0\AbstractFactory.pdb
+E:\hw7\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+E:\hw7\obj\Debug\net8.0\ref\AbstractFactory.dll
